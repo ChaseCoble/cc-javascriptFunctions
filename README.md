@@ -1,0 +1,1 @@
+This code block is to demonstrate my ability to create a Javascript function. I also incorporated all the forseeable edge cases, including an error message if all cases are not accounted for. 
